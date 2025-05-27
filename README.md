@@ -1,5 +1,11 @@
 # myapp
 
+# ingresar datos
+![image](https://github.com/user-attachments/assets/7facd0f0-3dfe-40b4-a42b-8a63773f6673)
+
+# salida
+![image](https://github.com/user-attachments/assets/01396405-430c-46a6-a20e-113ae2abbac0)
+
 A new Flutter project.
 
 ## Getting Started
